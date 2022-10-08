@@ -1,0 +1,19 @@
+{
+  "name": "@s.watanabe/commitlint-config-developers-kit",
+  "version": "1.0.2",
+  "description": "commitlint-custom-rules",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/",
+    "directory": "@s.watanabe/commitlint-config-developers-kit"
+  },
+  "keywords": [
+    "commitlint",
+    "commitlint-rules",
+    "commitlint-custom",
+    "commitlint-config"
+  ],
+  "author": "s.watanabe",
+  "license": "MIT"
+}
