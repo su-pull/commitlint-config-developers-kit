@@ -9,10 +9,11 @@ npm install --save-dev @commitlint/cli @s.watanabe/commitlint-config-developers-
 ```
 [
     "new",
-    "ui",
-    "logic",
+    "delete",
     "add",
     "remove",
+    "ui",
+    "logic",
     "patch",
     "update",
     "return",

@@ -5,10 +5,11 @@ module.exports = {
       "always",
       [
         "new",
-        "ui",
-        "logic",
+        "delete",
         "add",
         "remove",
+        "ui",
+        "logic",
         "patch",
         "update",
         "return",
