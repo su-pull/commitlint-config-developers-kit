@@ -37,4 +37,3 @@ module.exports = {
   }
 };
 ```
-# commitlint-config-developers-kit
