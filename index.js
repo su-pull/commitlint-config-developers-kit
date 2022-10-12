@@ -6,10 +6,11 @@ module.exports = {
       [
         "new",
         "delete",
-        "add",
-        "remove",
         "ui",
         "logic",
+        "note",
+        "add",
+        "remove",
         "patch",
         "update",
         "return",
