@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/opepelab/commitlint-config-developers-kit",
+    "url": "https://github.com/su-pull/commitlint-config-developers-kit",
     "directory": "@s.watanabe/commitlint-config-developers-kit"
   },
   "keywords": [
