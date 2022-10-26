@@ -7,20 +7,17 @@ npm install --save-dev @commitlint/cli @s.watanabe/commitlint-config-developers-
 ## Rules
 
 ```
-[
-    "new",
-    "delete",
-    "ui",
-    "logic",
-    "note",
-    "add",
-    "remove",
-    "patch",
-    "update",
-    "return",
-    "bug",
-    "test",
-]
+  [
+    "New",
+    "Add",
+    "Remove",
+    "UI",
+    "Return",
+    "Bug",
+    "Test",
+    "Patch",
+    "Override",
+  ],
 ```
 
 ## commitlint.config.js Exmaple
@@ -33,7 +30,7 @@ module.exports = {
       2,
       'always',
       [
-        'other self-rules'
+        "other self"
       ]
     ]
   }
