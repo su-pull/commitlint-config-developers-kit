@@ -7,17 +7,17 @@ npm install --save-dev @commitlint/cli @s.watanabe/commitlint-config-developers-
 ## Rules
 
 ```
-  [
-    "New",
-    "Add",
-    "Remove",
-    "UI",
-    "Return",
-    "Bug",
-    "Test",
-    "Patch",
-    "Override",
-  ],
+[
+  "new",
+  "add",
+  "remove",
+  "override",
+  "ui",
+  "return",
+  "bug",
+  "test",
+  "patch",
+],
 ```
 
 ## commitlint.config.js Exmaple
