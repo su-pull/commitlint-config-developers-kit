@@ -1,6 +1,6 @@
 {
   "name": "@s.watanabe/commitlint-config-developers-kit",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "commitlint-custom-rules",
   "main": "index.js",
   "repository": {
