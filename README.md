@@ -11,6 +11,7 @@ npm install --save-dev @commitlint/cli @s.watanabe/commitlint-config-developers-
   "new",
   "add",
   "remove",
+  "adjust"
   "override",
   "ui",
   "return",

@@ -7,6 +7,7 @@ module.exports = {
         "new",
         "add",
         "remove",
+        "adjust",
         "override",
         "ui",
         "return",
