@@ -6,7 +6,7 @@ npm install --save-dev @commitlint/cli @s.watanabe/commitlint-config-developers-
 
 ## Update Info
 
-version 2.0.1 add [adjust]
+version 2.0.2 add [adjust]
 
 ## Rules
 
